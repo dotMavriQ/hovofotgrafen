@@ -1,5 +1,5 @@
 export default {
-  siteBaseUrl: '/',
+  siteBaseUrl: '/hovofotgrafen/',
   siteLanguage: "en",
   siteTitle: "hovofotgrafen",
   siteDescription: "Inte riktigt hovfotografen",
