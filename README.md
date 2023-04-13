@@ -45,11 +45,11 @@ Feel free to check [our documentation](https://github.com/withastro/astro) or ju
   // Web site language
   siteLanguage: "en",
   //Web site title. It is visible in sidebar and browser
-  siteTitle: "Astro Themes",
+  siteTitle: "hovofotgrafen",
   //Web site desciption. It is visible in sidebar. Also added head meta data.
-  siteDescription: "<your site description>",
+  siteDescription: "Kunde varit "Hovfotografen", men ödet ville något annat",
   //Override footer text.
-  siteCopyright: "© 2020 copyright text.",
+  siteCopyright: "🄯 2023 Copyleft dotMavriQ.",
   //Site global date format. [dayjs](https://day.js.org/docs/en/display/format)
   dateFormat: "MMMM D, YYYY",
   // Pagination number of posts per page

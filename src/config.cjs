@@ -1,9 +1,9 @@
 export default {
   siteBaseUrl: '/',
   siteLanguage: "en",
-  siteTitle: "Astro Themes",
-  siteDescription: "<your site description>",
-  siteCopyright: "© 2022 copyright text.",
+  siteTitle: "hovofotgrafen",
+  siteDescription: "Inte riktigt hovfotografen",
+  siteCopyright: "🄯 2023 Copyleft dotMavriQ.",
   dateFormat: "MMMM D, YYYY",
   paginate: 6,
   memus:[

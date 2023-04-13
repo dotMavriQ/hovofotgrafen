@@ -12,6 +12,7 @@
     "astro": "^1.0.0-beta.20"
   },
   "dependencies": {
+    "chart.js": "^4.2.1",
     "dayjs": "^1.11.1"
   }
 }
