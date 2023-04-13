@@ -10,7 +10,7 @@ export default {
     {
       identifier: "about",
       name: "About",
-      url: "/about/",
+      url: "/hovofotgrafen/about/",
     }
   ],
 };
