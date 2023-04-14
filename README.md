@@ -41,6 +41,8 @@ Open your web browser and navigate to http://localhost:3000 to see the Hovofotgr
 
 ## Credits
 
+The theme in use for this showcase website is the Astro.js Theme called Simple Blog Theme by [OnWritingCode](https://github.com/OnWritingCode).
+
 The Chart.js library is used in this project to create the pie chart. The images used in the pie chart are taken from the following sources:
 
 * Horse image: https://swtvmc.com/wp-content/uploads/2018/01/hoof-print-white-128.png
