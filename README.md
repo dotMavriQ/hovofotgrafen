@@ -9,14 +9,14 @@ To add some humor to the situation, the website was created as a gag, featuring 
 
 ## Technologies Used
 
-    Astro.js: A modern front-end framework for building fast websites with Astro components.
-    Chart.js: A popular JavaScript charting library that allows you to create a wide variety of interactive charts and graphs.
+* [**Astro.js**](https://github.com/withastro/astro): A modern front-end framework for building fast websites with Astro components.
+* [**Chart.js**](https://github.com/chartjs): A popular JavaScript charting library that allows you to create a wide variety of interactive charts and graphs.
 
 ## Usage
 
 #### Clone the repository:
 
-`git clone https://github.com/yourusername/hovofotgrafen.git`
+`git clone https://github.com/dotMavriQ/hovofotgrafen.git`
 
 #### Install dependencies:
 
@@ -43,8 +43,8 @@ Open your web browser and navigate to http://localhost:3000 to see the Hovofotgr
 
 The Chart.js library is used in this project to create the pie chart. The images used in the pie chart are taken from the following sources:
 
-    Horse image: https://swtvmc.com/wp-content/uploads/2018/01/hoof-print-white-128.png
-    Feet image: https://i.pinimg.com/originals/0d/00/30/0d003071688a0953c9875fbaf2664a37.png
+* Horse image: https://swtvmc.com/wp-content/uploads/2018/01/hoof-print-white-128.png
+* Feet image: https://i.pinimg.com/originals/0d/00/30/0d003071688a0953c9875fbaf2664a37.png
 
 ## License
 
