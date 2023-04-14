@@ -34,7 +34,7 @@ npm run build
 #### Start the development server:
 
 ```
-npm run start
+npm run dev
 ```
 
 Open your web browser and navigate to http://localhost:3000 to see the Hovofotgrafen site with the Chart.js graph.
